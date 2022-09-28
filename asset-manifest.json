@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fetch-Api-using-Redux-toolkit-Thunk/static/css/main.1a02ccde.css",
+    "main.js": "/Fetch-Api-using-Redux-toolkit-Thunk/static/js/main.9261ffb7.js",
+    "static/js/787.f0b8668e.chunk.js": "/Fetch-Api-using-Redux-toolkit-Thunk/static/js/787.f0b8668e.chunk.js",
+    "index.html": "/Fetch-Api-using-Redux-toolkit-Thunk/index.html",
+    "main.1a02ccde.css.map": "/Fetch-Api-using-Redux-toolkit-Thunk/static/css/main.1a02ccde.css.map",
+    "main.9261ffb7.js.map": "/Fetch-Api-using-Redux-toolkit-Thunk/static/js/main.9261ffb7.js.map",
+    "787.f0b8668e.chunk.js.map": "/Fetch-Api-using-Redux-toolkit-Thunk/static/js/787.f0b8668e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a02ccde.css",
+    "static/js/main.9261ffb7.js"
+  ]
+}
