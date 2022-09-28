@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+th{
+  padding: 10px;
+  border-radius: 5px;
+  background-color: grey;
+}
+td{
+  padding: 10px;
+  border-radius: 5px;
+  background: linear-gradient(pink,yellow,brown);
+}
